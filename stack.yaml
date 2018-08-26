@@ -1,0 +1,4 @@
+resolver: nightly-2018-05-30
+packages:
+- '.'
+system-ghc: true
